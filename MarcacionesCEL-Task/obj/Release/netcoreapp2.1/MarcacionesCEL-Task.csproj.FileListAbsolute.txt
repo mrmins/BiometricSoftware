@@ -1,0 +1,13 @@
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\bin\Release\netcoreapp2.1\MarcacionesCEL-Task.deps.json
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\bin\Release\netcoreapp2.1\MarcacionesCEL-Task.runtimeconfig.json
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\bin\Release\netcoreapp2.1\MarcacionesCEL-Task.runtimeconfig.dev.json
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\bin\Release\netcoreapp2.1\MarcacionesCEL-Task.dll
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\bin\Release\netcoreapp2.1\MarcacionesCEL-Task.pdb
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\bin\Release\netcoreapp2.1\Interop.zkemkeeper.dll
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\obj\Release\netcoreapp2.1\Interop.zkemkeeper.dll
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\obj\Release\netcoreapp2.1\MarcacionesCEL-Task.csproj.ResolveComReference.cache
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\obj\Release\netcoreapp2.1\MarcacionesCEL-Task.csproj.CoreCompileInputs.cache
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\obj\Release\netcoreapp2.1\MarcacionesCEL-Task.AssemblyInfoInputs.cache
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\obj\Release\netcoreapp2.1\MarcacionesCEL-Task.AssemblyInfo.cs
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\obj\Release\netcoreapp2.1\MarcacionesCEL-Task.dll
+C:\Users\BERivera\Desktop\BioMatrix\MarcacionesCEL-Task\obj\Release\netcoreapp2.1\MarcacionesCEL-Task.pdb

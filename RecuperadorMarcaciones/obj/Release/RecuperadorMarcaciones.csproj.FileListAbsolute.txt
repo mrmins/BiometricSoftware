@@ -1,0 +1,15 @@
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Release\dlls\zke.dll
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Release\dlls\zkemkeeper.dll
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Release\RecuperadorMarcaciones.exe.config
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Release\RecuperadorMarcaciones.exe
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Release\zke.dll
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Release\RecuperadorMarcaciones.csproj.ResolveComReference.cache
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Release\RecuperadorMarcaciones.csproj.CoreCompileInputs.cache
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Release\RecuperadorMarcaciones.csproj.CopyComplete
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Release\RecuperadorMarcaciones.exe
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Release\RecuperadorMarcaciones.pdb
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Release\RecuperadorMarcaciones.pdb
+C:\Users\BERivera\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Release\Interop.zkemkeeper.dll
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Release\RecuperadorMarcaciones.csprojAssemblyReference.cache
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Release\Interop.zkemkeeper.dll

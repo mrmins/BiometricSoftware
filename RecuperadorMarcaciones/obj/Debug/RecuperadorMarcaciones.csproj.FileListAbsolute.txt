@@ -1,0 +1,15 @@
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Debug\dlls\zke.dll
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Debug\dlls\zkemkeeper.dll
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Debug\RecuperadorMarcaciones.exe.config
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Debug\RecuperadorMarcaciones.exe
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Debug\RecuperadorMarcaciones.pdb
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Debug\zke.dll
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Debug\RecuperadorMarcaciones.csproj.ResolveComReference.cache
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Debug\RecuperadorMarcaciones.csproj.CoreCompileInputs.cache
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Debug\RecuperadorMarcaciones.csproj.CopyComplete
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Debug\RecuperadorMarcaciones.exe
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Debug\RecuperadorMarcaciones.pdb
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\BERIVERA\Desktop\BioMatrix\RecuperadorMarcaciones\obj\Debug\RecuperadorMarcaciones.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\BERivera\Desktop\BioMatrix\Prueba\bin\Release\Recuperación de marcaciones.exe.config
+C:\Users\BERivera\Desktop\BioMatrix\Prueba\bin\Release\Recuperación de marcaciones.exe
+C:\Users\BERivera\Desktop\BioMatrix\Prueba\bin\Release\Recuperación de marcaciones.pdb
+C:\Users\BERivera\Desktop\BioMatrix\Prueba\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\BERivera\Desktop\BioMatrix\Prueba\obj\Release\Interop.zkemkeeper.dll
+C:\Users\BERivera\Desktop\BioMatrix\Prueba\obj\Release\Prueba.csproj.ResolveComReference.cache
+C:\Users\BERivera\Desktop\BioMatrix\Prueba\obj\Release\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\BERivera\Desktop\BioMatrix\Prueba\obj\Release\Prueba.csproj.CopyComplete
+C:\Users\BERivera\Desktop\BioMatrix\Prueba\obj\Release\Recuperación de marcaciones.exe
+C:\Users\BERivera\Desktop\BioMatrix\Prueba\obj\Release\Recuperación de marcaciones.pdb
+C:\Users\BERIVERA\Desktop\BioMatrix\Prueba\obj\Release\Prueba.csprojAssemblyReference.cache

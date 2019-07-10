@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="dlls\zkemkeeper.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="zkemkeeper.dll">
+      <Guid>fe9ded34-e159-408e-8490-b720a5e632c7</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>false</Isolated>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="dlls\zkemkeeper.dll" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\BERivera\Desktop\BioMatrix\zke\obj\Release\netstandard2.0\zke.csproj.CoreCompileInputs.cache
+C:\Users\BERivera\Desktop\BioMatrix\zke\obj\Release\netstandard2.0\zke.AssemblyInfoInputs.cache
+C:\Users\BERivera\Desktop\BioMatrix\zke\obj\Release\netstandard2.0\zke.AssemblyInfo.cs
+C:\Users\BERivera\Desktop\BioMatrix\zke\obj\Release\netstandard2.0\Interop.zkemkeeper.dll
+C:\Users\BERivera\Desktop\BioMatrix\zke\obj\Release\netstandard2.0\zke.csproj.ResolveComReference.cache
+C:\Users\BERivera\Desktop\BioMatrix\zke\bin\Release\netstandard2.0\zke.deps.json
+C:\Users\BERivera\Desktop\BioMatrix\zke\bin\Release\netstandard2.0\zke.dll
+C:\Users\BERivera\Desktop\BioMatrix\zke\bin\Release\netstandard2.0\zke.pdb
+C:\Users\BERivera\Desktop\BioMatrix\zke\bin\Release\netstandard2.0\Interop.zkemkeeper.dll
+C:\Users\BERivera\Desktop\BioMatrix\zke\obj\Release\netstandard2.0\zke.dll
+C:\Users\BERivera\Desktop\BioMatrix\zke\obj\Release\netstandard2.0\zke.pdb
+C:\Users\BERIVERA\Desktop\BioMatrix\zke\obj\Release\netstandard2.0\zke.csprojAssemblyReference.cache
